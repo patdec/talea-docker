@@ -1,3 +1,5 @@
 /talea
 /dumps/*
 /mount/*
+/script/rails
+/script/cucumber
